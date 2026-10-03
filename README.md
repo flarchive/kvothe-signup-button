@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of kvothe/signup-button.** Not for installation: use [Packagist](https://packagist.org/packages/kvothe/signup-button) or the [upstream repository](https://github.com/oaklinq/flarum-signup-button).
 
-**0** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/kvothe-signup-button/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**5** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/kvothe-signup-button/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2019-02-08 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-signup-button/tree/archive/v0.1.0) |
+| `v0.1.1` | 2019-02-08 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-signup-button/tree/archive/v0.1.1) |
+| `v0.1.2` | 2019-02-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-signup-button/tree/archive/v0.1.2) |
+| `v0.1.3` | 2019-02-17 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-signup-button/tree/archive/v0.1.3) |
+| `v0.1.4` | 2019-02-19 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-signup-button/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/kvothe-signup-button.json](https://github.com/flarchive/archive-index/blob/main/packages/kvothe-signup-button.json)
 
